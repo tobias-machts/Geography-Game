@@ -1,7 +1,7 @@
 # Geography-Game
-A Small game, where you have guess every country or state on a map (main.py)
-The datacreator.py allows you to easily add new maps
-Missed states or countrys will be listet in the output folder
+A Small game, where you have guess every country or state on a map (main.py) <br />
+The datacreator.py allows you to easily add new maps <br />
+Missed states or countrys will be listet in the output folder <br />
 ----------
 
 How to play the game:

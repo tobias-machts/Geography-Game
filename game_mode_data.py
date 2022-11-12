@@ -1,0 +1,1 @@
+maps = {"america": {"map": "./maps/blank_states_img.gif","data": "./data/50_states.csv"},"europe": {"map": "./maps/europe.gif","data": "./data/europe.csv"},"africa": {"map": "./maps/africa.gif","data": "./data/africa.csv"}}
